@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 ## Description:
-The application enables users to enter inputs into a inquirer prompt in order to generate a logo "logo.svg" file which contains the users desired results as an SVG image.
+The application enables users to enter inputs into an inquirer prompt in order to generate a "logo.svg" file which contains the users desired results saved as an SVG image.
 
 
 ## The Challenge
@@ -41,7 +41,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 3. Enter “node index.js” in the command line
 4. Through sequential order within the command line interface - the user will be presented with npm inquirer questions - the user will provide a response to each question and proceed.
 5. Once completed a SVG file named "logo.svg" will be created.
-6. At your discretion, you may rename the "logo.svg" file to the file name of your choice.
+6. If you wish you may rename the "logo.svg" file to the file name of your choice.
 
 ## License & Copyright ©
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
@@ -54,3 +54,4 @@ Here is a link to the GitHub repository;
 https://github.com/jason82autotech/SVG-Logo-Maker
 
 Here is the URL of the walk-through video;
+https://drive.google.com/file/d/1OdLmutiC4g4lHlaJT5NpVO1RA68fTGbb/view
