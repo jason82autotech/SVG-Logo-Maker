@@ -5,11 +5,6 @@
 ## Description:
 The application enables users to enter inputs into a inquirer prompt in order to generate a logo "logo.svg" file which contains the users desired results as an SVG image.
 
-## Table of Contents:
-- [The Challenge](#The-Challenge)
-- [Usage Instructions](#Usage-Instructions)
-- [License](#License)
-
 
 ## The Challenge
 Build a Node.js command-line application that takes in user inputs to generates a SVG logo and saves it as "logo.svg" file. In addition, create a walkthrough video that demonstrates its functionality and the passing of all of the tests.
@@ -50,3 +45,12 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## License & Copyright ©
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
+
+
+Here is a screenshot of the generated-logo; 
+![generated-logo](./images/generated-logo.png)
+
+Here is a link to the GitHub repository;
+https://github.com/jason82autotech/SVG-Logo-Maker
+
+Here is the URL of the walk-through video;
